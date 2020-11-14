@@ -1,0 +1,21 @@
+#detectButton {
+  background: #a5f0a2;
+}
+
+.link:focus {
+  outline: none;
+}
+
+input:focus {
+  outline: none;
+}
+
+button:focus {
+  outline: none;
+  box-shadow: none;
+}
+
+.form {
+  width: 700px;
+  background: #a5f0a2;
+}
