@@ -1,3 +1,7 @@
+#addBorder{
+  border: solid 1px transparent;
+}
+
 #addBorder:hover {
   border: solid 1px #02580f96;
   border-radius: 5px;
